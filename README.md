@@ -1,2 +1,2 @@
-# Bioinfo.py
-Package of useful tools
+# Bioinfo tools
+repository of useful tools
